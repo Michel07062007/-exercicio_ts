@@ -1,4 +1,4 @@
-type aluno {
+type aluno = {
     nome: string;
     cursos?: string[];
     idade: number;
